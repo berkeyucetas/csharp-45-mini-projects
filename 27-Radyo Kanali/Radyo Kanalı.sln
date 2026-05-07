@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radyo Kanalı", "Radyo Kanalı\Radyo Kanalı.csproj", "{1A3F2D79-39CF-4D18-B466-540FC3CB13FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A3F2D79-39CF-4D18-B466-540FC3CB13FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3F2D79-39CF-4D18-B466-540FC3CB13FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3F2D79-39CF-4D18-B466-540FC3CB13FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3F2D79-39CF-4D18-B466-540FC3CB13FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14552201-0046-4166-B4BA-38B66A686132}
+	EndGlobalSection
+EndGlobal
