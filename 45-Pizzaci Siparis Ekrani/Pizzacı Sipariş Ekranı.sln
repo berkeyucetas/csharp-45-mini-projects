@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizzacı Sipariş Ekranı", "Pizzacı Sipariş Ekranı\Pizzacı Sipariş Ekranı.csproj", "{EE37FF3A-92A0-46D1-B3B7-CF11BE602C6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE37FF3A-92A0-46D1-B3B7-CF11BE602C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE37FF3A-92A0-46D1-B3B7-CF11BE602C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE37FF3A-92A0-46D1-B3B7-CF11BE602C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE37FF3A-92A0-46D1-B3B7-CF11BE602C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ADB5538-7F59-4ADD-9C86-A82D14A154A5}
+	EndGlobalSection
+EndGlobal
