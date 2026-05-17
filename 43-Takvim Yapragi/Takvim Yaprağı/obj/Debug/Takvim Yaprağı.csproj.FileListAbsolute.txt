@@ -1,0 +1,10 @@
+C:\Users\bekoo\Desktop\Yeni klasör\Takvim Yaprağı\Takvim Yaprağı\bin\Debug\Takvim Yaprağı.exe.config
+C:\Users\bekoo\Desktop\Yeni klasör\Takvim Yaprağı\Takvim Yaprağı\bin\Debug\Takvim Yaprağı.exe
+C:\Users\bekoo\Desktop\Yeni klasör\Takvim Yaprağı\Takvim Yaprağı\bin\Debug\Takvim Yaprağı.pdb
+C:\Users\bekoo\Desktop\Yeni klasör\Takvim Yaprağı\Takvim Yaprağı\obj\Debug\Takvim Yaprağı.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\Yeni klasör\Takvim Yaprağı\Takvim Yaprağı\obj\Debug\Takvim_Yaprağı.Form1.resources
+C:\Users\bekoo\Desktop\Yeni klasör\Takvim Yaprağı\Takvim Yaprağı\obj\Debug\Takvim_Yaprağı.Properties.Resources.resources
+C:\Users\bekoo\Desktop\Yeni klasör\Takvim Yaprağı\Takvim Yaprağı\obj\Debug\Takvim Yaprağı.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\Yeni klasör\Takvim Yaprağı\Takvim Yaprağı\obj\Debug\Takvim Yaprağı.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\Yeni klasör\Takvim Yaprağı\Takvim Yaprağı\obj\Debug\Takvim Yaprağı.exe
+C:\Users\bekoo\Desktop\Yeni klasör\Takvim Yaprağı\Takvim Yaprağı\obj\Debug\Takvim Yaprağı.pdb
